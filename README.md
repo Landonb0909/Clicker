@@ -1,5 +1,4 @@
-# Clicker
-## A Simple SwiftUI game
+# Clicker - A Simple SwiftUI game
 
 Very cool game!!!!!!!!
 open it and click play and then your mode and then win!!!!!
