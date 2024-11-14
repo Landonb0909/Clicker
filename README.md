@@ -5,5 +5,4 @@ open it and click play and then your mode and then win!!!!!
 click keys and win....... there are also achievements fr
 
 ## Requirements
-macOS Ventura 13.0 or later
-macOS Sonoma 14.0 *PREFERED*
+macOS Ventura 13.0 or later. (Sonoma Prefered)
